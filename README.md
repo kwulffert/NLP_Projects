@@ -1,6 +1,6 @@
 # NLP_Projects
 This is my corner to experiment with NLP algorithms.
 
+<img src="images/cover.jpg?raw=true"/>
 ### Alice's adventures in wonderland:
-Data loading, pre-procesing from a book version available in the gutenberg.org database. 
-<br>NLP training to find clusters of words and if they are correlated to characters of the book.
+As Alice's adventures in wonderland has taken a special place in our home, I found it a great fit to train a word2vec model, use bigrams and trigrams to include in the embeddings context around the words and to find out if similar words can be clustered to characters.
